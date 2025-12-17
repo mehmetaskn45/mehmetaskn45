@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **SOC Analyst**
 
-- I'm currently developing [siberiz.net](siberiz.net)
+- 🌐 I'm currently developing [siberiz.net](siberiz.net)
 
 - 📝 I regularly write articles on [siberiz.net](siberiz.net)
 
