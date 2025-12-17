@@ -1,5 +1,5 @@
 ![MasterHead](https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2025/9/12/93cf3e96c4cb4ce2bcea89d9f1d3f3b0)
-<h1 align="center">Hi 👋, I'm mehmet</h1>
+<h1 align="center">Hi 👋, I'm Mehmet Aşkın</h1>
 <h3 align="center">A passionate Cyber Security Analyst from Turkey</h3>
 
 - 🌱 I’m currently learning **SOC Analyst**
